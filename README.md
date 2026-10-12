@@ -9,5 +9,3 @@ TrackGlow lights up your room with live race control: flags, safety cars and rac
 3. Start `TrackGlow.exe`. You need the OpenRGB SDK server running (port 6742).
 
 TrackGlow updates itself: when a new version is out, a green arrow appears in the top left. One click installs it.
-
-Support TrackGlow and unlock Pro on [Patreon](https://www.patreon.com/).
